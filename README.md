@@ -43,7 +43,7 @@ These days I'm interested in:
 ### Experience
 
 **XIIA**: Team Lead (Dec 2025 – present), Full Stack Developer &amp; Tech Lead (Dec 2024 – Dec 2025)<br/>
-**Akij Food &amp; Beverages**: Executive, Web Developer<br/>
+**Akij Food &amp; Beverages**: Senior Executive, Frontend Team Lead<br/>
 **Navana Communication**: Front-end Developer (Internship)<br/>
 **OriTechBD**: Front-end Developer<br/>
 **E_GOB**: Full Stack Developer (Internship)
