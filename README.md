@@ -1,8 +1,8 @@
 <h1 align="center">Urmi Rahman</h1>
 
 <p align="center">
-  Full Stack Developer &amp; Team Lead at <b>XIIA</b><br/>
-  I build calm, thoughtful web products, from the database to the last pixel.
+  Backend-focused Full Stack Developer &amp; Team Lead at <b>XIIA</b><br/>
+  I build reliable services, secure auth, and AI-powered features, with a clean interface on top.
 </p>
 
 <p align="center">
@@ -16,24 +16,26 @@
 
 ### About me
 
-I'm a full stack developer who cares about the whole journey of a product: clean architecture underneath, and an interface that feels effortless on top.
+I'm a full stack developer with a soft spot for the backend: APIs, data models, authentication, and the systems that quietly keep a product running. I still care about the interface, but I like to start from solid architecture underneath.
 
 I joined **XIIA** in December 2024 as a Full Stack Developer and Tech Lead, and have led the team since December 2025, working remotely with our office in Denmark. Before that, I spent several years building production web apps for companies in Bangladesh.
 
 These days I'm interested in:
 
-- Building scalable products with **Next.js**, **TypeScript**, and type-safe APIs
+- Designing backend services and APIs with **Go**, **Python/Django**, and **Node.js**
+- Authentication and security: login flows, tokens, and two-factor authentication
+- Integrating AI into real products, from LLM APIs to practical, useful features
 - Leading small teams, reviewing code, and keeping codebases kind to future readers
-- Bringing a designer's eye to engineering: motion, typography, and immersive web experiences
 
 ---
 
 ### Tools I reach for
 
-**Languages:** TypeScript, JavaScript, SQL<br/>
-**Frontend:** React, Next.js, Tailwind CSS, Framer Motion<br/>
-**Mobile:** React Native, Expo<br/>
-**Backend &amp; data:** REST, GraphQL, tRPC, Prisma, MySQL<br/>
+**Languages:** Go, Python, TypeScript, JavaScript, SQL<br/>
+**Backend:** Django, Node.js, Express, REST, GraphQL, tRPC<br/>
+**Data:** MySQL, Prisma<br/>
+**Auth &amp; AI:** authentication flows, 2FA, AI/LLM API integration<br/>
+**Frontend &amp; mobile:** React, Next.js, Tailwind CSS, React Native, Expo<br/>
 **Workflow:** Git, Turborepo, Figma
 
 ---
@@ -49,6 +51,11 @@ These days I'm interested in:
 ---
 
 ### Selected work
+
+**Backend &amp; AI**
+
+- **Authenticator app**: an authentication app built around secure sign-in and verification
+- **AI integration app**: an app that brings AI features into an everyday product workflow
 
 **Products**
 
